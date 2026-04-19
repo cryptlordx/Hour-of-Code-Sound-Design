@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="2181508724" Type="Event" GUID="{1379D797-475D-4FD1-B9CA-C2F39AC65768}" Language="SFX" Hash="{E8C4AE7E-1F21-188F-33D5-3128ABD334B3}">
+			<ObjectPath>Play_Sphere_Collision</ObjectPath>
+			<ShortName>Play_Sphere_Collision</ShortName>
+			<Path>Event/Play_Sphere_Collision.bnk</Path>
+			<Media>
+				<File Id="140279805" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Ball_Hit_002.wav</ShortName>
+					<Path>Media/140279805.wem</Path>
+					<CachePath>SFX/Ball_Hit_002_818F3B66.wem</CachePath>
+				</File>
+				<File Id="377241007" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Ball_Hit_003.wav</ShortName>
+					<Path>Media/377241007.wem</Path>
+					<CachePath>SFX/Ball_Hit_003_818F3B66.wem</CachePath>
+				</File>
+				<File Id="731828973" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Ball_Hit_001.wav</ShortName>
+					<Path>Media/731828973.wem</Path>
+					<CachePath>SFX/Ball_Hit_001_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="2181508724" Name="Play_Sphere_Collision" ObjectPath="\Events\Default Work Unit\Play_Sphere_Collision" GUID="{1379D797-475D-4FD1-B9CA-C2F39AC65768}" MaxAttenuation="2000" DurationType="OneShot" DurationMin="0.31527358" DurationMax="0.6634583">
+					<MediaRefs>
+						<MediaRef Id="140279805"/>
+						<MediaRef Id="377241007"/>
+						<MediaRef Id="731828973"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{E2825485-0AF7-529F-9C90-58E58C617CDD}</FileHash>
+</SoundBanksInfo>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="3361937960" Type="Event" GUID="{389D9219-1D4E-458C-AAF4-E69C00136639}" Language="SFX" Hash="{668D3A94-9A8C-FF77-7DA6-85C8FDECEB88}">
+			<ObjectPath>Play_Floating_Island</ObjectPath>
+			<ShortName>Play_Floating_Island</ShortName>
+			<Path>Event/Play_Floating_Island.bnk</Path>
+			<Media>
+				<File Id="37822086" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>FloatingIslands_Stones_004.wav</ShortName>
+					<Path>Media/37822086.wem</Path>
+					<CachePath>SFX/FloatingIslands_Stones_004_818F3B66.wem</CachePath>
+				</File>
+				<File Id="161893733" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>FloatingIslands_Stones_003.wav</ShortName>
+					<Path>Media/161893733.wem</Path>
+					<CachePath>SFX/FloatingIslands_Stones_003_818F3B66.wem</CachePath>
+				</File>
+				<File Id="345402268" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>FloatingIslands_Rumble_Loop.wav</ShortName>
+					<Path>Media/345402268.wem</Path>
+					<CachePath>SFX/FloatingIslands_Rumble_Loop_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="441693561" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>FloatingIslands_Stones_001.wav</ShortName>
+					<Path>Media/441693561.wem</Path>
+					<CachePath>SFX/FloatingIslands_Stones_001_818F3B66.wem</CachePath>
+				</File>
+				<File Id="917465934" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>FloatingIslands_Stones_002.wav</ShortName>
+					<Path>Media/917465934.wem</Path>
+					<CachePath>SFX/FloatingIslands_Stones_002_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="3361937960" Name="Play_Floating_Island" ObjectPath="\Events\Default Work Unit\Floating Islands\Play_Floating_Island" GUID="{389D9219-1D4E-458C-AAF4-E69C00136639}" MaxAttenuation="3500" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="37822086"/>
+						<MediaRef Id="161893733"/>
+						<MediaRef Id="345402268"/>
+						<MediaRef Id="441693561"/>
+						<MediaRef Id="917465934"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{B0809FCF-A934-E5F6-62BD-4052A5C6C45B}</FileHash>
+</SoundBanksInfo>

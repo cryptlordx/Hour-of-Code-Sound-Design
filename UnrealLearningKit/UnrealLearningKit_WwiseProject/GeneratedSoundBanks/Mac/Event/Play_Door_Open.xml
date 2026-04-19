@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="1660008929" Type="Event" GUID="{393B6608-7837-401C-8F4E-C8BDFA9DACDE}" Language="SFX" Hash="{CBDE1CA8-B1D3-BE5C-2769-23CBE2C7DA61}">
+			<ObjectPath>Play_Door_Open</ObjectPath>
+			<ShortName>Play_Door_Open</ShortName>
+			<Path>Event/Play_Door_Open.bnk</Path>
+			<Media>
+				<File Id="1066401204" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Door_Open.wav</ShortName>
+					<Path>Media/1066401204.wem</Path>
+					<CachePath>SFX/Door_Open_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="1660008929" Name="Play_Door_Open" ObjectPath="\Events\Default Work Unit\Play_Door_Open" GUID="{393B6608-7837-401C-8F4E-C8BDFA9DACDE}" MaxAttenuation="1000" DurationType="OneShot" DurationMin="1.617875" DurationMax="1.617875">
+					<MediaRefs>
+						<MediaRef Id="1066401204"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{427F5ED5-6A71-BD84-06C5-85F43A23FC4C}</FileHash>
+</SoundBanksInfo>

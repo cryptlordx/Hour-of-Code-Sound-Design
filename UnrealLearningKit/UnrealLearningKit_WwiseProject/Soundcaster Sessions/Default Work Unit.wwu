@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{89DE2AE2-80A2-4EE7-99D1-3B9193217EDB}" SchemaVersion="119">
+	<SoundcasterSessions>
+		<WorkUnit Name="Default Work Unit" ID="{89DE2AE2-80A2-4EE7-99D1-3B9193217EDB}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundcasterSession Name="New Soundcaster Session" ID="{5281EC8D-C089-4D1B-8B9D-07CC3D29F56C}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="Play_Floating_Island" ID="{389D9219-1D4E-458C-AAF4-E69C00136639}" WorkUnitID="{518C6DCB-DAE5-42B6-AFBA-4BFAC4461A8E}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Stop_Floating_Island" ID="{3FA03F19-0526-45D2-B27B-98E03CD36A90}" WorkUnitID="{518C6DCB-DAE5-42B6-AFBA-4BFAC4461A8E}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true"/>
+					<CurrentStateList ShowAll="true"/>
+					<CurrentSwitchList ShowAll="true">
+						<CurrentSwitchRef Name="Grass" ID="{3728FB9B-E698-4E73-97FE-CE335ABB0C81}"/>
+					</CurrentSwitchList>
+				</SoundcasterSession>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundcasterSessions>
+</WwiseDocument>

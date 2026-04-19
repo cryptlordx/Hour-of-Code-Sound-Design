@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="854025974" Type="Event" GUID="{203A36FC-3EF8-442E-83D9-8E3A5D820B8F}" Language="SFX" Hash="{910A60A7-A270-1E3D-D223-98E0583D7199}">
+			<ObjectPath>Play_Gem_Pickup</ObjectPath>
+			<ShortName>Play_Gem_Pickup</ShortName>
+			<Path>Event/Play_Gem_Pickup.bnk</Path>
+			<Media>
+				<File Id="138478195" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Gem_Synth_003.wav</ShortName>
+					<Path>Media/138478195.wem</Path>
+					<CachePath>SFX/Gem_Synth_003_818F3B66.wem</CachePath>
+				</File>
+				<File Id="193871247" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Gem_Ring_002.wav</ShortName>
+					<Path>Media/193871247.wem</Path>
+					<CachePath>SFX/Gem_Ring_002_818F3B66.wem</CachePath>
+				</File>
+				<File Id="206114510" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Gem_Ring_001.wav</ShortName>
+					<Path>Media/206114510.wem</Path>
+					<CachePath>SFX/Gem_Ring_001_818F3B66.wem</CachePath>
+				</File>
+				<File Id="415378740" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Gem_Synth_004.wav</ShortName>
+					<Path>Media/415378740.wem</Path>
+					<CachePath>SFX/Gem_Synth_004_818F3B66.wem</CachePath>
+				</File>
+				<File Id="700218319" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Gem_Synth_002.wav</ShortName>
+					<Path>Media/700218319.wem</Path>
+					<CachePath>SFX/Gem_Synth_002_818F3B66.wem</CachePath>
+				</File>
+				<File Id="852126695" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Gem_Ring_004.wav</ShortName>
+					<Path>Media/852126695.wem</Path>
+					<CachePath>SFX/Gem_Ring_004_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1004168788" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Gem_Synth_001.wav</ShortName>
+					<Path>Media/1004168788.wem</Path>
+					<CachePath>SFX/Gem_Synth_001_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1047065213" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Gem_Ring_003.wav</ShortName>
+					<Path>Media/1047065213.wem</Path>
+					<CachePath>SFX/Gem_Ring_003_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="854025974" Name="Play_Gem_Pickup" ObjectPath="\Events\Default Work Unit\Play_Gem_Pickup" GUID="{203A36FC-3EF8-442E-83D9-8E3A5D820B8F}" MaxAttenuation="1000" DurationType="OneShot" DurationMin="1.53275" DurationMax="1.7789375">
+					<MediaRefs>
+						<MediaRef Id="138478195"/>
+						<MediaRef Id="193871247"/>
+						<MediaRef Id="206114510"/>
+						<MediaRef Id="415378740"/>
+						<MediaRef Id="700218319"/>
+						<MediaRef Id="852126695"/>
+						<MediaRef Id="1004168788"/>
+						<MediaRef Id="1047065213"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{707C5C24-99D5-9BBE-D077-ED5E2F90DB7A}</FileHash>
+</SoundBanksInfo>

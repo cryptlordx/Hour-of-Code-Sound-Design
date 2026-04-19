@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2767729423	Play_Metal_Platform			\Default Work Unit\Floating Islands\Play_Metal_Platform	
+

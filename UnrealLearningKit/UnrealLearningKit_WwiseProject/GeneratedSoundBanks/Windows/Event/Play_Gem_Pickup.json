@@ -1,0 +1,133 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "854025974",
+    "Type": "Event",
+    "GUID": "{203A36FC-3EF8-442E-83D9-8E3A5D820B8F}",
+    "Language": "SFX",
+    "Hash": "{910A60A7-A270-1E3D-D223-98E0583D7199}",
+    "ObjectPath": "Play_Gem_Pickup",
+    "ShortName": "Play_Gem_Pickup",
+    "Path": "Event/Play_Gem_Pickup.bnk",
+    "Media": [
+     {
+      "Id": "138478195",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Gem_Synth_003.wav",
+      "Path": "Media/138478195.wem",
+      "CachePath": "SFX/Gem_Synth_003_818F3B66.wem"
+     },
+     {
+      "Id": "193871247",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Gem_Ring_002.wav",
+      "Path": "Media/193871247.wem",
+      "CachePath": "SFX/Gem_Ring_002_818F3B66.wem"
+     },
+     {
+      "Id": "206114510",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Gem_Ring_001.wav",
+      "Path": "Media/206114510.wem",
+      "CachePath": "SFX/Gem_Ring_001_818F3B66.wem"
+     },
+     {
+      "Id": "415378740",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Gem_Synth_004.wav",
+      "Path": "Media/415378740.wem",
+      "CachePath": "SFX/Gem_Synth_004_818F3B66.wem"
+     },
+     {
+      "Id": "700218319",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Gem_Synth_002.wav",
+      "Path": "Media/700218319.wem",
+      "CachePath": "SFX/Gem_Synth_002_818F3B66.wem"
+     },
+     {
+      "Id": "852126695",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Gem_Ring_004.wav",
+      "Path": "Media/852126695.wem",
+      "CachePath": "SFX/Gem_Ring_004_818F3B66.wem"
+     },
+     {
+      "Id": "1004168788",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Gem_Synth_001.wav",
+      "Path": "Media/1004168788.wem",
+      "CachePath": "SFX/Gem_Synth_001_818F3B66.wem"
+     },
+     {
+      "Id": "1047065213",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Gem_Ring_003.wav",
+      "Path": "Media/1047065213.wem",
+      "CachePath": "SFX/Gem_Ring_003_818F3B66.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "854025974",
+      "Name": "Play_Gem_Pickup",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Gem_Pickup",
+      "GUID": "{203A36FC-3EF8-442E-83D9-8E3A5D820B8F}",
+      "MaxAttenuation": "1000",
+      "DurationType": "OneShot",
+      "DurationMin": "1.53275",
+      "DurationMax": "1.7789375",
+      "MediaRefs": [
+       {
+        "Id": "138478195"
+       },
+       {
+        "Id": "193871247"
+       },
+       {
+        "Id": "206114510"
+       },
+       {
+        "Id": "415378740"
+       },
+       {
+        "Id": "700218319"
+       },
+       {
+        "Id": "852126695"
+       },
+       {
+        "Id": "1004168788"
+       },
+       {
+        "Id": "1047065213"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{612CE66B-7DB1-C3FE-F5DD-6A5B71286095}"
+ }
+}

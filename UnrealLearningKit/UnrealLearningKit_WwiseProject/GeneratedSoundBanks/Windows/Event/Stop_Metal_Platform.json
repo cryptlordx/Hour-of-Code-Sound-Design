@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "415866941",
+    "Type": "Event",
+    "GUID": "{08BC87B2-CE49-4FC5-A306-B32BF8F7A5CF}",
+    "Language": "SFX",
+    "Hash": "{7F624BA7-9892-FE12-CBDE-23C38CA79A84}",
+    "ObjectPath": "Stop_Metal_Platform",
+    "ShortName": "Stop_Metal_Platform",
+    "Path": "Event/Stop_Metal_Platform.bnk",
+    "Events": [
+     {
+      "Id": "415866941",
+      "Name": "Stop_Metal_Platform",
+      "ObjectPath": "\\Events\\Default Work Unit\\Floating Islands\\Stop_Metal_Platform",
+      "GUID": "{08BC87B2-CE49-4FC5-A306-B32BF8F7A5CF}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{50AD9970-486D-19B6-03A7-A0548A175CE9}"
+ }
+}

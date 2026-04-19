@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="1155380491" Type="Event" GUID="{A09D7060-9B8E-40A7-A039-D52934BAC5FC}" Language="SFX" Hash="{82C139E4-B5D8-B61A-7B2E-AF48081D9F71}">
+			<ObjectPath>Play_Exterior_Ambience</ObjectPath>
+			<ShortName>Play_Exterior_Ambience</ShortName>
+			<Path>Event/Play_Exterior_Ambience.bnk</Path>
+			<Media>
+				<File Id="493660" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Ambience_2D_Angellic_002.wav</ShortName>
+					<Path>Media/493660.wem</Path>
+					<CachePath>SFX/Ambience_2D_Angellic_002_818F3B66.wem</CachePath>
+				</File>
+				<File Id="246281568" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Ambience_2D_Exterior_Gust_002.wav</ShortName>
+					<Path>Media/246281568.wem</Path>
+					<CachePath>SFX/Ambience_2D_Exterior_Gust_002_818F3B66.wem</CachePath>
+				</File>
+				<File Id="325101689" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Ambience_2D_Angellic_003.wav</ShortName>
+					<Path>Media/325101689.wem</Path>
+					<CachePath>SFX/Ambience_2D_Angellic_003_818F3B66.wem</CachePath>
+				</File>
+				<File Id="408750185" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Ambience_2D_Angellic_001.wav</ShortName>
+					<Path>Media/408750185.wem</Path>
+					<CachePath>SFX/Ambience_2D_Angellic_001_818F3B66.wem</CachePath>
+				</File>
+				<File Id="575286668" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Ambience_2D_Angellic_004.wav</ShortName>
+					<Path>Media/575286668.wem</Path>
+					<CachePath>SFX/Ambience_2D_Angellic_004_818F3B66.wem</CachePath>
+				</File>
+				<File Id="644153342" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Ambience_2D_Exterior_Gust_001.wav</ShortName>
+					<Path>Media/644153342.wem</Path>
+					<CachePath>SFX/Ambience_2D_Exterior_Gust_001_818F3B66.wem</CachePath>
+				</File>
+				<File Id="830334660" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Ambience_2D_Exterior_Gust_003.wav</ShortName>
+					<Path>Media/830334660.wem</Path>
+					<CachePath>SFX/Ambience_2D_Exterior_Gust_003_818F3B66.wem</CachePath>
+				</File>
+				<File Id="849844674" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Ambience_2D_Exterior_Bed.wav</ShortName>
+					<Path>Media/849844674.wem</Path>
+					<CachePath>SFX/Ambience_2D_Exterior_Bed_FBC78EF0.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="1155380491" Name="Play_Exterior_Ambience" ObjectPath="\Events\Default Work Unit\Play_Exterior_Ambience" GUID="{A09D7060-9B8E-40A7-A039-D52934BAC5FC}" MaxAttenuation="1800" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="493660"/>
+						<MediaRef Id="246281568"/>
+						<MediaRef Id="325101689"/>
+						<MediaRef Id="408750185"/>
+						<MediaRef Id="575286668"/>
+						<MediaRef Id="644153342"/>
+						<MediaRef Id="830334660"/>
+						<MediaRef Id="849844674"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{14A80942-C03E-A594-C1AB-10DABA4A9D05}</FileHash>
+</SoundBanksInfo>

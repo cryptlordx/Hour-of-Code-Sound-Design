@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="714751997" Type="Event" GUID="{8FA95176-EDD0-48A5-880A-F770AE9AC28F}" Language="SFX" Hash="{A16A633E-B9D3-5141-04EB-94E27D9681F7}">
+			<ObjectPath>Play_Interior_Ambience</ObjectPath>
+			<ShortName>Play_Interior_Ambience</ShortName>
+			<Path>Event/Play_Interior_Ambience.bnk</Path>
+			<Media>
+				<File Id="567807581" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Ambience_2D_Interior_Gust_002.wav</ShortName>
+					<Path>Media/567807581.wem</Path>
+					<CachePath>SFX/Ambience_2D_Interior_Gust_002_818F3B66.wem</CachePath>
+				</File>
+				<File Id="607990927" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Ambience_2D_Interior_Gust_001.wav</ShortName>
+					<Path>Media/607990927.wem</Path>
+					<CachePath>SFX/Ambience_2D_Interior_Gust_001_818F3B66.wem</CachePath>
+				</File>
+				<File Id="862487805" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Ambience_2D_Interior_Gust_003.wav</ShortName>
+					<Path>Media/862487805.wem</Path>
+					<CachePath>SFX/Ambience_2D_Interior_Gust_003_818F3B66.wem</CachePath>
+				</File>
+				<File Id="989995940" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Ambience_2D_Interior_Bed.wav</ShortName>
+					<Path>Media/989995940.wem</Path>
+					<CachePath>SFX/Ambience_2D_Interior_Bed_FBC78EF0.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="714751997" Name="Play_Interior_Ambience" ObjectPath="\Events\Default Work Unit\Play_Interior_Ambience" GUID="{8FA95176-EDD0-48A5-880A-F770AE9AC28F}" MaxAttenuation="2000" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="567807581"/>
+						<MediaRef Id="607990927"/>
+						<MediaRef Id="862487805"/>
+						<MediaRef Id="989995940"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{3B85A148-D46E-DD03-6AF8-A7A108A5DC8B}</FileHash>
+</SoundBanksInfo>

@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "158275979",
+    "Type": "Event",
+    "GUID": "{1EAE047F-C612-4999-A1D7-BA461E8F69C7}",
+    "Language": "SFX",
+    "Hash": "{60A07ADE-9466-71E8-5EF6-11D204E3A37A}",
+    "ObjectPath": "Play_Door_Lever",
+    "ShortName": "Play_Door_Lever",
+    "Path": "Event/Play_Door_Lever.bnk",
+    "Media": [
+     {
+      "Id": "669047086",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Lever_Pull.wav",
+      "Path": "Media/669047086.wem",
+      "CachePath": "SFX/Lever_Pull_818F3B66.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "158275979",
+      "Name": "Play_Door_Lever",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Door_Lever",
+      "GUID": "{1EAE047F-C612-4999-A1D7-BA461E8F69C7}",
+      "MaxAttenuation": "1000",
+      "DurationType": "OneShot",
+      "DurationMin": "1.4840417",
+      "DurationMax": "1.4840417",
+      "MediaRefs": [
+       {
+        "Id": "669047086"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{A38B49CA-91D6-41C9-27ED-64EE4532BEF6}"
+ }
+}

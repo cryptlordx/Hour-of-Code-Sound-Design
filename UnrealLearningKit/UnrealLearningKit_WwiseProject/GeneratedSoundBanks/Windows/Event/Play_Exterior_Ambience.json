@@ -1,0 +1,131 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "1155380491",
+    "Type": "Event",
+    "GUID": "{A09D7060-9B8E-40A7-A039-D52934BAC5FC}",
+    "Language": "SFX",
+    "Hash": "{82C139E4-B5D8-B61A-7B2E-AF48081D9F71}",
+    "ObjectPath": "Play_Exterior_Ambience",
+    "ShortName": "Play_Exterior_Ambience",
+    "Path": "Event/Play_Exterior_Ambience.bnk",
+    "Media": [
+     {
+      "Id": "493660",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Ambience_2D_Angellic_002.wav",
+      "Path": "Media/493660.wem",
+      "CachePath": "SFX/Ambience_2D_Angellic_002_818F3B66.wem"
+     },
+     {
+      "Id": "246281568",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Ambience_2D_Exterior_Gust_002.wav",
+      "Path": "Media/246281568.wem",
+      "CachePath": "SFX/Ambience_2D_Exterior_Gust_002_818F3B66.wem"
+     },
+     {
+      "Id": "325101689",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Ambience_2D_Angellic_003.wav",
+      "Path": "Media/325101689.wem",
+      "CachePath": "SFX/Ambience_2D_Angellic_003_818F3B66.wem"
+     },
+     {
+      "Id": "408750185",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Ambience_2D_Angellic_001.wav",
+      "Path": "Media/408750185.wem",
+      "CachePath": "SFX/Ambience_2D_Angellic_001_818F3B66.wem"
+     },
+     {
+      "Id": "575286668",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Ambience_2D_Angellic_004.wav",
+      "Path": "Media/575286668.wem",
+      "CachePath": "SFX/Ambience_2D_Angellic_004_818F3B66.wem"
+     },
+     {
+      "Id": "644153342",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Ambience_2D_Exterior_Gust_001.wav",
+      "Path": "Media/644153342.wem",
+      "CachePath": "SFX/Ambience_2D_Exterior_Gust_001_818F3B66.wem"
+     },
+     {
+      "Id": "830334660",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Ambience_2D_Exterior_Gust_003.wav",
+      "Path": "Media/830334660.wem",
+      "CachePath": "SFX/Ambience_2D_Exterior_Gust_003_818F3B66.wem"
+     },
+     {
+      "Id": "849844674",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Ambience_2D_Exterior_Bed.wav",
+      "Path": "Media/849844674.wem",
+      "CachePath": "SFX/Ambience_2D_Exterior_Bed_FBC78EF0.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1155380491",
+      "Name": "Play_Exterior_Ambience",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Exterior_Ambience",
+      "GUID": "{A09D7060-9B8E-40A7-A039-D52934BAC5FC}",
+      "MaxAttenuation": "1800",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "493660"
+       },
+       {
+        "Id": "246281568"
+       },
+       {
+        "Id": "325101689"
+       },
+       {
+        "Id": "408750185"
+       },
+       {
+        "Id": "575286668"
+       },
+       {
+        "Id": "644153342"
+       },
+       {
+        "Id": "830334660"
+       },
+       {
+        "Id": "849844674"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{86C5E423-D7C3-096B-504F-865565C889AB}"
+ }
+}

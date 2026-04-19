@@ -1,0 +1,47 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "2767729423",
+    "Type": "Event",
+    "GUID": "{FA754EDC-1765-4EE7-A7A6-001E41F1C0F0}",
+    "Language": "SFX",
+    "Hash": "{1D3486E0-3E30-713A-3F7F-582F9F883D82}",
+    "ObjectPath": "Play_Metal_Platform",
+    "ShortName": "Play_Metal_Platform",
+    "Path": "Event/Play_Metal_Platform.bnk",
+    "Media": [
+     {
+      "Id": "816466208",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Metal_Platform.wav",
+      "Path": "Media/816466208.wem",
+      "CachePath": "SFX/Metal_Platform_FBC78EF0.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2767729423",
+      "Name": "Play_Metal_Platform",
+      "ObjectPath": "\\Events\\Default Work Unit\\Floating Islands\\Play_Metal_Platform",
+      "GUID": "{FA754EDC-1765-4EE7-A7A6-001E41F1C0F0}",
+      "MaxAttenuation": "2500",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "816466208"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{F3DABF8A-DCA6-FE8D-29E6-9B54C41D8DB8}"
+ }
+}

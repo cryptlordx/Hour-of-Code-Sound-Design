@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="158275979" Type="Event" GUID="{1EAE047F-C612-4999-A1D7-BA461E8F69C7}" Language="SFX" Hash="{60A07ADE-9466-71E8-5EF6-11D204E3A37A}">
+			<ObjectPath>Play_Door_Lever</ObjectPath>
+			<ShortName>Play_Door_Lever</ShortName>
+			<Path>Event/Play_Door_Lever.bnk</Path>
+			<Media>
+				<File Id="669047086" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Lever_Pull.wav</ShortName>
+					<Path>Media/669047086.wem</Path>
+					<CachePath>SFX/Lever_Pull_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="158275979" Name="Play_Door_Lever" ObjectPath="\Events\Default Work Unit\Play_Door_Lever" GUID="{1EAE047F-C612-4999-A1D7-BA461E8F69C7}" MaxAttenuation="1000" DurationType="OneShot" DurationMin="1.4840417" DurationMax="1.4840417">
+					<MediaRefs>
+						<MediaRef Id="669047086"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{3304F6B5-B614-CA23-F914-96F96651D1B3}</FileHash>
+</SoundBanksInfo>

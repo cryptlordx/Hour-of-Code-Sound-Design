@@ -1,0 +1,95 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "3361937960",
+    "Type": "Event",
+    "GUID": "{389D9219-1D4E-458C-AAF4-E69C00136639}",
+    "Language": "SFX",
+    "Hash": "{668D3A94-9A8C-FF77-7DA6-85C8FDECEB88}",
+    "ObjectPath": "Play_Floating_Island",
+    "ShortName": "Play_Floating_Island",
+    "Path": "Event/Play_Floating_Island.bnk",
+    "Media": [
+     {
+      "Id": "37822086",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FloatingIslands_Stones_004.wav",
+      "Path": "Media/37822086.wem",
+      "CachePath": "SFX/FloatingIslands_Stones_004_818F3B66.wem"
+     },
+     {
+      "Id": "161893733",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FloatingIslands_Stones_003.wav",
+      "Path": "Media/161893733.wem",
+      "CachePath": "SFX/FloatingIslands_Stones_003_818F3B66.wem"
+     },
+     {
+      "Id": "345402268",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FloatingIslands_Rumble_Loop.wav",
+      "Path": "Media/345402268.wem",
+      "CachePath": "SFX/FloatingIslands_Rumble_Loop_FBC78EF0.wem"
+     },
+     {
+      "Id": "441693561",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FloatingIslands_Stones_001.wav",
+      "Path": "Media/441693561.wem",
+      "CachePath": "SFX/FloatingIslands_Stones_001_818F3B66.wem"
+     },
+     {
+      "Id": "917465934",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FloatingIslands_Stones_002.wav",
+      "Path": "Media/917465934.wem",
+      "CachePath": "SFX/FloatingIslands_Stones_002_818F3B66.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3361937960",
+      "Name": "Play_Floating_Island",
+      "ObjectPath": "\\Events\\Default Work Unit\\Floating Islands\\Play_Floating_Island",
+      "GUID": "{389D9219-1D4E-458C-AAF4-E69C00136639}",
+      "MaxAttenuation": "3500",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "37822086"
+       },
+       {
+        "Id": "161893733"
+       },
+       {
+        "Id": "345402268"
+       },
+       {
+        "Id": "441693561"
+       },
+       {
+        "Id": "917465934"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{70B40DF0-42D8-4803-11E7-40E6916E3C44}"
+ }
+}

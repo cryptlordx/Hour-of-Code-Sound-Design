@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="1276431738" Type="Event" GUID="{6CB52243-E833-4A1B-9225-B14E81FCEADD}" Language="SFX" Hash="{8B1E9D74-A62D-4EE8-6993-70F2F013E3ED}">
+			<ObjectPath>Play_Footstep_Run</ObjectPath>
+			<ShortName>Play_Footstep_Run</ShortName>
+			<Path>Event/Play_Footstep_Run.bnk</Path>
+			<Media>
+				<File Id="17342461" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Clothing_Fabric_Run_002.wav</ShortName>
+					<Path>Media/17342461.wem</Path>
+					<CachePath>SFX/Clothing_Fabric_Run_002_818F3B66.wem</CachePath>
+				</File>
+				<File Id="52002376" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Clothing_Fabric_Run_005.wav</ShortName>
+					<Path>Media/52002376.wem</Path>
+					<CachePath>SFX/Clothing_Fabric_Run_005_818F3B66.wem</CachePath>
+				</File>
+				<File Id="102907376" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Step_Run_Wood_005.wav</ShortName>
+					<Path>Media/102907376.wem</Path>
+					<CachePath>SFX/Step_Run_Wood_005_818F3B66.wem</CachePath>
+				</File>
+				<File Id="124681175" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Step_Run_Tile_003.wav</ShortName>
+					<Path>Media/124681175.wem</Path>
+					<CachePath>SFX/Step_Run_Tile_003_818F3B66.wem</CachePath>
+				</File>
+				<File Id="133108347" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Clothing_Gear_Run_005.wav</ShortName>
+					<Path>Media/133108347.wem</Path>
+					<CachePath>SFX/Clothing_Gear_Run_005_818F3B66.wem</CachePath>
+				</File>
+				<File Id="139762680" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Step_Run_Tile_006.wav</ShortName>
+					<Path>Media/139762680.wem</Path>
+					<CachePath>SFX/Step_Run_Tile_006_818F3B66.wem</CachePath>
+				</File>
+				<File Id="173879676" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Step_Run_Wood_010.wav</ShortName>
+					<Path>Media/173879676.wem</Path>
+					<CachePath>SFX/Step_Run_Wood_010_818F3B66.wem</CachePath>
+				</File>
+				<File Id="191072190" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Step_Run_Tile_007.wav</ShortName>
+					<Path>Media/191072190.wem</Path>
+					<CachePath>SFX/Step_Run_Tile_007_818F3B66.wem</CachePath>
+				</File>
+				<File Id="238067585" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Step_Run_Metal_005.wav</ShortName>
+					<Path>Media/238067585.wem</Path>
+					<CachePath>SFX/Step_Run_Metal_005_818F3B66.wem</CachePath>
+				</File>
+				<File Id="257340563" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Step_Run_Grass_009.wav</ShortName>
+					<Path>Media/257340563.wem</Path>
+					<CachePath>SFX/Step_Run_Grass_009_818F3B66.wem</CachePath>
+				</File>
+				<File Id="260993620" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Step_Run_Grass_008.wav</ShortName>
+					<Path>Media/260993620.wem</Path>
+					<CachePath>SFX/Step_Run_Grass_008_818F3B66.wem</CachePath>
+				</File>
+				<File Id="299848350" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Step_Run_Grass_006.wav</ShortName>
+					<Path>Media/299848350.wem</Path>
+					<CachePath>SFX/Step_Run_Grass_006_818F3B66.wem</CachePath>
+				</File>
+				<File Id="377296571" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Step_Run_Tile_005.wav</ShortName>
+					<Path>Media/377296571.wem</Path>
+					<CachePath>SFX/Step_Run_Tile_005_818F3B66.wem</CachePath>
+				</File>
+				<File Id="432781166" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Step_Run_Grass_005.wav</ShortName>
+					<Path>Media/432781166.wem</Path>
+					<CachePath>SFX/Step_Run_Grass_005_818F3B66.wem</CachePath>
+				</File>
+				<File Id="435379065" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Step_Run_Tile_004.wav</ShortName>
+					<Path>Media/435379065.wem</Path>
+					<CachePath>SFX/Step_Run_Tile_004_818F3B66.wem</CachePath>
+				</File>
+				<File Id="442850953" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Step_Run_Wood_004.wav</ShortName>
+					<Path>Media/442850953.wem</Path>
+					<CachePath>SFX/Step_Run_Wood_004_818F3B66.wem</CachePath>
+				</File>
+				<File Id="443331981" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Step_Run_Metal_007.wav</ShortName>
+					<Path>Media/443331981.wem</Path>
+					<CachePath>SFX/Step_Run_Metal_007_818F3B66.wem</CachePath>
+				</File>
+				<File Id="502137286" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Clothing_Fabric_Run_001.wav</ShortName>
+					<Path>Media/502137286.wem</Path>
+					<CachePath>SFX/Clothing_Fabric_Run_001_818F3B66.wem</CachePath>
+				</File>
+				<File Id="506931058" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Step_Run_Wood_009.wav</ShortName>
+					<Path>Media/506931058.wem</Path>
+					<CachePath>SFX/Step_Run_Wood_009_818F3B66.wem</CachePath>
+				</File>
+				<File Id="541712914" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Step_Run_Grass_007.wav</ShortName>
+					<Path>Media/541712914.wem</Path>
+					<CachePath>SFX/Step_Run_Grass_007_818F3B66.wem</CachePath>
+				</File>
+				<File Id="551657496" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Clothing_Fabric_Run_004.wav</ShortName>
+					<Path>Media/551657496.wem</Path>
+					<CachePath>SFX/Clothing_Fabric_Run_004_818F3B66.wem</CachePath>
+				</File>
+				<File Id="554722802" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Step_Run_Wood_008.wav</ShortName>
+					<Path>Media/554722802.wem</Path>
+					<CachePath>SFX/Step_Run_Wood_008_818F3B66.wem</CachePath>
+				</File>
+				<File Id="566249284" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Step_Run_Grass_002.wav</ShortName>
+					<Path>Media/566249284.wem</Path>
+					<CachePath>SFX/Step_Run_Grass_002_818F3B66.wem</CachePath>
+				</File>
+				<File Id="573085109" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Step_Run_Metal_004.wav</ShortName>
+					<Path>Media/573085109.wem</Path>
+					<CachePath>SFX/Step_Run_Metal_004_818F3B66.wem</CachePath>
+				</File>
+				<File Id="584790237" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Step_Run_Tile_001.wav</ShortName>
+					<Path>Media/584790237.wem</Path>
+					<CachePath>SFX/Step_Run_Tile_001_818F3B66.wem</CachePath>
+				</File>
+				<File Id="619680554" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Clothing_Gear_Run_002.wav</ShortName>
+					<Path>Media/619680554.wem</Path>
+					<CachePath>SFX/Clothing_Gear_Run_002_818F3B66.wem</CachePath>
+				</File>
+				<File Id="625987456" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Step_Run_Metal_006.wav</ShortName>
+					<Path>Media/625987456.wem</Path>
+					<CachePath>SFX/Step_Run_Metal_006_818F3B66.wem</CachePath>
+				</File>
+				<File Id="629494804" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Step_Run_Metal_008.wav</ShortName>
+					<Path>Media/629494804.wem</Path>
+					<CachePath>SFX/Step_Run_Metal_008_818F3B66.wem</CachePath>
+				</File>
+				<File Id="688236383" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Step_Run_Metal_002.wav</ShortName>
+					<Path>Media/688236383.wem</Path>
+					<CachePath>SFX/Step_Run_Metal_002_818F3B66.wem</CachePath>
+				</File>
+				<File Id="693604867" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Step_Run_Wood_003.wav</ShortName>
+					<Path>Media/693604867.wem</Path>
+					<CachePath>SFX/Step_Run_Wood_003_818F3B66.wem</CachePath>
+				</File>
+				<File Id="732290043" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Clothing_Gear_Run_004.wav</ShortName>
+					<Path>Media/732290043.wem</Path>
+					<CachePath>SFX/Clothing_Gear_Run_004_818F3B66.wem</CachePath>
+				</File>
+				<File Id="735108953" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Step_Run_Grass_010.wav</ShortName>
+					<Path>Media/735108953.wem</Path>
+					<CachePath>SFX/Step_Run_Grass_010_818F3B66.wem</CachePath>
+				</File>
+				<File Id="760390071" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Clothing_Fabric_Run_003.wav</ShortName>
+					<Path>Media/760390071.wem</Path>
+					<CachePath>SFX/Clothing_Fabric_Run_003_818F3B66.wem</CachePath>
+				</File>
+				<File Id="770201169" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Step_Run_Wood_001.wav</ShortName>
+					<Path>Media/770201169.wem</Path>
+					<CachePath>SFX/Step_Run_Wood_001_818F3B66.wem</CachePath>
+				</File>
+				<File Id="783174836" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Step_Run_Wood_002.wav</ShortName>
+					<Path>Media/783174836.wem</Path>
+					<CachePath>SFX/Step_Run_Wood_002_818F3B66.wem</CachePath>
+				</File>
+				<File Id="803961586" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Step_Run_Tile_010.wav</ShortName>
+					<Path>Media/803961586.wem</Path>
+					<CachePath>SFX/Step_Run_Tile_010_818F3B66.wem</CachePath>
+				</File>
+				<File Id="807694539" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Clothing_Fabric_Run_006.wav</ShortName>
+					<Path>Media/807694539.wem</Path>
+					<CachePath>SFX/Clothing_Fabric_Run_006_818F3B66.wem</CachePath>
+				</File>
+				<File Id="818351054" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Step_Run_Wood_007.wav</ShortName>
+					<Path>Media/818351054.wem</Path>
+					<CachePath>SFX/Step_Run_Wood_007_818F3B66.wem</CachePath>
+				</File>
+				<File Id="833610010" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Step_Run_Grass_004.wav</ShortName>
+					<Path>Media/833610010.wem</Path>
+					<CachePath>SFX/Step_Run_Grass_004_818F3B66.wem</CachePath>
+				</File>
+				<File Id="917922639" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Step_Run_Metal_001.wav</ShortName>
+					<Path>Media/917922639.wem</Path>
+					<CachePath>SFX/Step_Run_Metal_001_818F3B66.wem</CachePath>
+				</File>
+				<File Id="924698526" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Step_Run_Tile_009.wav</ShortName>
+					<Path>Media/924698526.wem</Path>
+					<CachePath>SFX/Step_Run_Tile_009_818F3B66.wem</CachePath>
+				</File>
+				<File Id="933731277" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Step_Run_Tile_002.wav</ShortName>
+					<Path>Media/933731277.wem</Path>
+					<CachePath>SFX/Step_Run_Tile_002_818F3B66.wem</CachePath>
+				</File>
+				<File Id="941105891" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Step_Run_Grass_001.wav</ShortName>
+					<Path>Media/941105891.wem</Path>
+					<CachePath>SFX/Step_Run_Grass_001_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1017054589" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Step_Run_Wood_006.wav</ShortName>
+					<Path>Media/1017054589.wem</Path>
+					<CachePath>SFX/Step_Run_Wood_006_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1026459907" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Clothing_Gear_Run_001.wav</ShortName>
+					<Path>Media/1026459907.wem</Path>
+					<CachePath>SFX/Clothing_Gear_Run_001_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1031256280" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Step_Run_Metal_003.wav</ShortName>
+					<Path>Media/1031256280.wem</Path>
+					<CachePath>SFX/Step_Run_Metal_003_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1051279719" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Step_Run_Tile_008.wav</ShortName>
+					<Path>Media/1051279719.wem</Path>
+					<CachePath>SFX/Step_Run_Tile_008_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1052190695" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Clothing_Gear_Run_003.wav</ShortName>
+					<Path>Media/1052190695.wem</Path>
+					<CachePath>SFX/Clothing_Gear_Run_003_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1068488784" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Step_Run_Grass_003.wav</ShortName>
+					<Path>Media/1068488784.wem</Path>
+					<CachePath>SFX/Step_Run_Grass_003_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="1276431738" Name="Play_Footstep_Run" ObjectPath="\Events\Default Work Unit\Footsteps\Play_Footstep_Run" GUID="{6CB52243-E833-4A1B-9225-B14E81FCEADD}" DurationType="OneShot" DurationMin="0.36285043" DurationMax="0.6103572">
+					<MediaRefs>
+						<MediaRef Id="17342461"/>
+						<MediaRef Id="52002376"/>
+						<MediaRef Id="133108347"/>
+						<MediaRef Id="502137286"/>
+						<MediaRef Id="551657496"/>
+						<MediaRef Id="619680554"/>
+						<MediaRef Id="732290043"/>
+						<MediaRef Id="760390071"/>
+						<MediaRef Id="807694539"/>
+						<MediaRef Id="1026459907"/>
+						<MediaRef Id="1052190695"/>
+					</MediaRefs>
+					<SwitchContainers>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2473969246" GUID="{163A7D6E-B763-4F85-A0C1-796543A2074C}"/>
+							<MediaRefs>
+								<MediaRef Id="238067585"/>
+								<MediaRef Id="443331981"/>
+								<MediaRef Id="573085109"/>
+								<MediaRef Id="625987456"/>
+								<MediaRef Id="629494804"/>
+								<MediaRef Id="688236383"/>
+								<MediaRef Id="917922639"/>
+								<MediaRef Id="1031256280"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2058049674" GUID="{27B26686-A419-45DA-B92A-E237F96CFD8D}"/>
+							<MediaRefs>
+								<MediaRef Id="102907376"/>
+								<MediaRef Id="173879676"/>
+								<MediaRef Id="442850953"/>
+								<MediaRef Id="506931058"/>
+								<MediaRef Id="554722802"/>
+								<MediaRef Id="693604867"/>
+								<MediaRef Id="770201169"/>
+								<MediaRef Id="783174836"/>
+								<MediaRef Id="818351054"/>
+								<MediaRef Id="1017054589"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2637588553" GUID="{C9C2678C-1684-46ED-A2AF-1FE2CA0217BF}"/>
+							<MediaRefs>
+								<MediaRef Id="124681175"/>
+								<MediaRef Id="139762680"/>
+								<MediaRef Id="191072190"/>
+								<MediaRef Id="377296571"/>
+								<MediaRef Id="435379065"/>
+								<MediaRef Id="584790237"/>
+								<MediaRef Id="803961586"/>
+								<MediaRef Id="924698526"/>
+								<MediaRef Id="933731277"/>
+								<MediaRef Id="1051279719"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="4248645337" GUID="{3728FB9B-E698-4E73-97FE-CE335ABB0C81}" Default="true"/>
+							<MediaRefs>
+								<MediaRef Id="257340563"/>
+								<MediaRef Id="260993620"/>
+								<MediaRef Id="299848350"/>
+								<MediaRef Id="432781166"/>
+								<MediaRef Id="541712914"/>
+								<MediaRef Id="566249284"/>
+								<MediaRef Id="735108953"/>
+								<MediaRef Id="833610010"/>
+								<MediaRef Id="941105891"/>
+								<MediaRef Id="1068488784"/>
+							</MediaRefs>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+			</Events>
+			<GameParameters>
+				<GameParameter Id="1493153371" Name="PlayerSpeed" ObjectPath="\Game Parameters\Default Work Unit\PlayerSpeed" GUID="{2C583147-0B9B-465F-B810-9D0B76C70B7F}"/>
+			</GameParameters>
+			<SwitchGroups>
+				<SwitchGroup Id="3865314626" Name="Material" ObjectPath="\Switches\Default Work Unit\Material" GUID="{E7747137-30D6-48A2-8519-532031011C66}">
+					<Switches>
+						<Switch Id="2058049674" Name="Wood" ObjectPath="\Switches\Default Work Unit\Material\Wood" GUID="{27B26686-A419-45DA-B92A-E237F96CFD8D}"/>
+						<Switch Id="2473969246" Name="Metal" ObjectPath="\Switches\Default Work Unit\Material\Metal" GUID="{163A7D6E-B763-4F85-A0C1-796543A2074C}"/>
+						<Switch Id="2637588553" Name="Tile" ObjectPath="\Switches\Default Work Unit\Material\Tile" GUID="{C9C2678C-1684-46ED-A2AF-1FE2CA0217BF}"/>
+						<Switch Id="4248645337" Name="Grass" ObjectPath="\Switches\Default Work Unit\Material\Grass" GUID="{3728FB9B-E698-4E73-97FE-CE335ABB0C81}"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{9FFC3CC6-89F6-4B88-64E0-83DB29359BE1}</FileHash>
+</SoundBanksInfo>

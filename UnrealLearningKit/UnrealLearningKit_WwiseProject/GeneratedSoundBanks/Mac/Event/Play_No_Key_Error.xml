@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="1082381464" Type="Event" GUID="{B06328D4-8A4C-4CBD-B13C-E2BC55E65006}" Language="SFX" Hash="{E2DFF8E9-FFDF-7671-4CA6-E57D6D7EBC3E}">
+			<ObjectPath>Play_No_Key_Error</ObjectPath>
+			<ShortName>Play_No_Key_Error</ShortName>
+			<Path>Event/Play_No_Key_Error.bnk</Path>
+			<Media>
+				<File Id="129971200" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Key_Error.wav</ShortName>
+					<Path>Media/129971200.wem</Path>
+					<CachePath>SFX/Key_Error_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="1082381464" Name="Play_No_Key_Error" ObjectPath="\Events\Default Work Unit\Play_No_Key_Error" GUID="{B06328D4-8A4C-4CBD-B13C-E2BC55E65006}" MaxAttenuation="1000" DurationType="OneShot" DurationMin="0.56427085" DurationMax="0.56427085">
+					<MediaRefs>
+						<MediaRef Id="129971200"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{452256AE-D46E-02A8-8F68-6C6B46F07BB5}</FileHash>
+</SoundBanksInfo>

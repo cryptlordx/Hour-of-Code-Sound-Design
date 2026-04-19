@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="2767729423" Type="Event" GUID="{FA754EDC-1765-4EE7-A7A6-001E41F1C0F0}" Language="SFX" Hash="{1D3486E0-3E30-713A-3F7F-582F9F883D82}">
+			<ObjectPath>Play_Metal_Platform</ObjectPath>
+			<ShortName>Play_Metal_Platform</ShortName>
+			<Path>Event/Play_Metal_Platform.bnk</Path>
+			<Media>
+				<File Id="816466208" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Metal_Platform.wav</ShortName>
+					<Path>Media/816466208.wem</Path>
+					<CachePath>SFX/Metal_Platform_FBC78EF0.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="2767729423" Name="Play_Metal_Platform" ObjectPath="\Events\Default Work Unit\Floating Islands\Play_Metal_Platform" GUID="{FA754EDC-1765-4EE7-A7A6-001E41F1C0F0}" MaxAttenuation="2500" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="816466208"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{77739206-C8F8-8FD9-1820-D96212F9AE58}</FileHash>
+</SoundBanksInfo>

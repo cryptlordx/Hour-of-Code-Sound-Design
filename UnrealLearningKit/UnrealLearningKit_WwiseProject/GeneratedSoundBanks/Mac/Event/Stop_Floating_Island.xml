@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="2071010958" Type="Event" GUID="{3FA03F19-0526-45D2-B27B-98E03CD36A90}" Language="SFX" Hash="{6E32746A-8108-804A-D49D-B5557E9057D8}">
+			<ObjectPath>Stop_Floating_Island</ObjectPath>
+			<ShortName>Stop_Floating_Island</ShortName>
+			<Path>Event/Stop_Floating_Island.bnk</Path>
+			<Events>
+				<Event Id="2071010958" Name="Stop_Floating_Island" ObjectPath="\Events\Default Work Unit\Floating Islands\Stop_Floating_Island" GUID="{3FA03F19-0526-45D2-B27B-98E03CD36A90}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{C4E8F9E8-AA51-67BB-D794-4E15BCFC27F8}</FileHash>
+</SoundBanksInfo>

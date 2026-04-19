@@ -1,0 +1,709 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "1276431738",
+    "Type": "Event",
+    "GUID": "{6CB52243-E833-4A1B-9225-B14E81FCEADD}",
+    "Language": "SFX",
+    "Hash": "{8B1E9D74-A62D-4EE8-6993-70F2F013E3ED}",
+    "ObjectPath": "Play_Footstep_Run",
+    "ShortName": "Play_Footstep_Run",
+    "Path": "Event/Play_Footstep_Run.bnk",
+    "Media": [
+     {
+      "Id": "17342461",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Clothing_Fabric_Run_002.wav",
+      "Path": "Media/17342461.wem",
+      "CachePath": "SFX/Clothing_Fabric_Run_002_818F3B66.wem"
+     },
+     {
+      "Id": "52002376",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Clothing_Fabric_Run_005.wav",
+      "Path": "Media/52002376.wem",
+      "CachePath": "SFX/Clothing_Fabric_Run_005_818F3B66.wem"
+     },
+     {
+      "Id": "102907376",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Step_Run_Wood_005.wav",
+      "Path": "Media/102907376.wem",
+      "CachePath": "SFX/Step_Run_Wood_005_818F3B66.wem"
+     },
+     {
+      "Id": "124681175",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Step_Run_Tile_003.wav",
+      "Path": "Media/124681175.wem",
+      "CachePath": "SFX/Step_Run_Tile_003_818F3B66.wem"
+     },
+     {
+      "Id": "133108347",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Clothing_Gear_Run_005.wav",
+      "Path": "Media/133108347.wem",
+      "CachePath": "SFX/Clothing_Gear_Run_005_818F3B66.wem"
+     },
+     {
+      "Id": "139762680",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Step_Run_Tile_006.wav",
+      "Path": "Media/139762680.wem",
+      "CachePath": "SFX/Step_Run_Tile_006_818F3B66.wem"
+     },
+     {
+      "Id": "173879676",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Step_Run_Wood_010.wav",
+      "Path": "Media/173879676.wem",
+      "CachePath": "SFX/Step_Run_Wood_010_818F3B66.wem"
+     },
+     {
+      "Id": "191072190",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Step_Run_Tile_007.wav",
+      "Path": "Media/191072190.wem",
+      "CachePath": "SFX/Step_Run_Tile_007_818F3B66.wem"
+     },
+     {
+      "Id": "238067585",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Step_Run_Metal_005.wav",
+      "Path": "Media/238067585.wem",
+      "CachePath": "SFX/Step_Run_Metal_005_818F3B66.wem"
+     },
+     {
+      "Id": "257340563",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Step_Run_Grass_009.wav",
+      "Path": "Media/257340563.wem",
+      "CachePath": "SFX/Step_Run_Grass_009_818F3B66.wem"
+     },
+     {
+      "Id": "260993620",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Step_Run_Grass_008.wav",
+      "Path": "Media/260993620.wem",
+      "CachePath": "SFX/Step_Run_Grass_008_818F3B66.wem"
+     },
+     {
+      "Id": "299848350",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Step_Run_Grass_006.wav",
+      "Path": "Media/299848350.wem",
+      "CachePath": "SFX/Step_Run_Grass_006_818F3B66.wem"
+     },
+     {
+      "Id": "377296571",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Step_Run_Tile_005.wav",
+      "Path": "Media/377296571.wem",
+      "CachePath": "SFX/Step_Run_Tile_005_818F3B66.wem"
+     },
+     {
+      "Id": "432781166",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Step_Run_Grass_005.wav",
+      "Path": "Media/432781166.wem",
+      "CachePath": "SFX/Step_Run_Grass_005_818F3B66.wem"
+     },
+     {
+      "Id": "435379065",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Step_Run_Tile_004.wav",
+      "Path": "Media/435379065.wem",
+      "CachePath": "SFX/Step_Run_Tile_004_818F3B66.wem"
+     },
+     {
+      "Id": "442850953",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Step_Run_Wood_004.wav",
+      "Path": "Media/442850953.wem",
+      "CachePath": "SFX/Step_Run_Wood_004_818F3B66.wem"
+     },
+     {
+      "Id": "443331981",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Step_Run_Metal_007.wav",
+      "Path": "Media/443331981.wem",
+      "CachePath": "SFX/Step_Run_Metal_007_818F3B66.wem"
+     },
+     {
+      "Id": "502137286",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Clothing_Fabric_Run_001.wav",
+      "Path": "Media/502137286.wem",
+      "CachePath": "SFX/Clothing_Fabric_Run_001_818F3B66.wem"
+     },
+     {
+      "Id": "506931058",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Step_Run_Wood_009.wav",
+      "Path": "Media/506931058.wem",
+      "CachePath": "SFX/Step_Run_Wood_009_818F3B66.wem"
+     },
+     {
+      "Id": "541712914",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Step_Run_Grass_007.wav",
+      "Path": "Media/541712914.wem",
+      "CachePath": "SFX/Step_Run_Grass_007_818F3B66.wem"
+     },
+     {
+      "Id": "551657496",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Clothing_Fabric_Run_004.wav",
+      "Path": "Media/551657496.wem",
+      "CachePath": "SFX/Clothing_Fabric_Run_004_818F3B66.wem"
+     },
+     {
+      "Id": "554722802",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Step_Run_Wood_008.wav",
+      "Path": "Media/554722802.wem",
+      "CachePath": "SFX/Step_Run_Wood_008_818F3B66.wem"
+     },
+     {
+      "Id": "566249284",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Step_Run_Grass_002.wav",
+      "Path": "Media/566249284.wem",
+      "CachePath": "SFX/Step_Run_Grass_002_818F3B66.wem"
+     },
+     {
+      "Id": "573085109",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Step_Run_Metal_004.wav",
+      "Path": "Media/573085109.wem",
+      "CachePath": "SFX/Step_Run_Metal_004_818F3B66.wem"
+     },
+     {
+      "Id": "584790237",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Step_Run_Tile_001.wav",
+      "Path": "Media/584790237.wem",
+      "CachePath": "SFX/Step_Run_Tile_001_818F3B66.wem"
+     },
+     {
+      "Id": "619680554",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Clothing_Gear_Run_002.wav",
+      "Path": "Media/619680554.wem",
+      "CachePath": "SFX/Clothing_Gear_Run_002_818F3B66.wem"
+     },
+     {
+      "Id": "625987456",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Step_Run_Metal_006.wav",
+      "Path": "Media/625987456.wem",
+      "CachePath": "SFX/Step_Run_Metal_006_818F3B66.wem"
+     },
+     {
+      "Id": "629494804",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Step_Run_Metal_008.wav",
+      "Path": "Media/629494804.wem",
+      "CachePath": "SFX/Step_Run_Metal_008_818F3B66.wem"
+     },
+     {
+      "Id": "688236383",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Step_Run_Metal_002.wav",
+      "Path": "Media/688236383.wem",
+      "CachePath": "SFX/Step_Run_Metal_002_818F3B66.wem"
+     },
+     {
+      "Id": "693604867",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Step_Run_Wood_003.wav",
+      "Path": "Media/693604867.wem",
+      "CachePath": "SFX/Step_Run_Wood_003_818F3B66.wem"
+     },
+     {
+      "Id": "732290043",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Clothing_Gear_Run_004.wav",
+      "Path": "Media/732290043.wem",
+      "CachePath": "SFX/Clothing_Gear_Run_004_818F3B66.wem"
+     },
+     {
+      "Id": "735108953",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Step_Run_Grass_010.wav",
+      "Path": "Media/735108953.wem",
+      "CachePath": "SFX/Step_Run_Grass_010_818F3B66.wem"
+     },
+     {
+      "Id": "760390071",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Clothing_Fabric_Run_003.wav",
+      "Path": "Media/760390071.wem",
+      "CachePath": "SFX/Clothing_Fabric_Run_003_818F3B66.wem"
+     },
+     {
+      "Id": "770201169",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Step_Run_Wood_001.wav",
+      "Path": "Media/770201169.wem",
+      "CachePath": "SFX/Step_Run_Wood_001_818F3B66.wem"
+     },
+     {
+      "Id": "783174836",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Step_Run_Wood_002.wav",
+      "Path": "Media/783174836.wem",
+      "CachePath": "SFX/Step_Run_Wood_002_818F3B66.wem"
+     },
+     {
+      "Id": "803961586",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Step_Run_Tile_010.wav",
+      "Path": "Media/803961586.wem",
+      "CachePath": "SFX/Step_Run_Tile_010_818F3B66.wem"
+     },
+     {
+      "Id": "807694539",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Clothing_Fabric_Run_006.wav",
+      "Path": "Media/807694539.wem",
+      "CachePath": "SFX/Clothing_Fabric_Run_006_818F3B66.wem"
+     },
+     {
+      "Id": "818351054",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Step_Run_Wood_007.wav",
+      "Path": "Media/818351054.wem",
+      "CachePath": "SFX/Step_Run_Wood_007_818F3B66.wem"
+     },
+     {
+      "Id": "833610010",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Step_Run_Grass_004.wav",
+      "Path": "Media/833610010.wem",
+      "CachePath": "SFX/Step_Run_Grass_004_818F3B66.wem"
+     },
+     {
+      "Id": "917922639",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Step_Run_Metal_001.wav",
+      "Path": "Media/917922639.wem",
+      "CachePath": "SFX/Step_Run_Metal_001_818F3B66.wem"
+     },
+     {
+      "Id": "924698526",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Step_Run_Tile_009.wav",
+      "Path": "Media/924698526.wem",
+      "CachePath": "SFX/Step_Run_Tile_009_818F3B66.wem"
+     },
+     {
+      "Id": "933731277",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Step_Run_Tile_002.wav",
+      "Path": "Media/933731277.wem",
+      "CachePath": "SFX/Step_Run_Tile_002_818F3B66.wem"
+     },
+     {
+      "Id": "941105891",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Step_Run_Grass_001.wav",
+      "Path": "Media/941105891.wem",
+      "CachePath": "SFX/Step_Run_Grass_001_818F3B66.wem"
+     },
+     {
+      "Id": "1017054589",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Step_Run_Wood_006.wav",
+      "Path": "Media/1017054589.wem",
+      "CachePath": "SFX/Step_Run_Wood_006_818F3B66.wem"
+     },
+     {
+      "Id": "1026459907",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Clothing_Gear_Run_001.wav",
+      "Path": "Media/1026459907.wem",
+      "CachePath": "SFX/Clothing_Gear_Run_001_818F3B66.wem"
+     },
+     {
+      "Id": "1031256280",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Step_Run_Metal_003.wav",
+      "Path": "Media/1031256280.wem",
+      "CachePath": "SFX/Step_Run_Metal_003_818F3B66.wem"
+     },
+     {
+      "Id": "1051279719",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Step_Run_Tile_008.wav",
+      "Path": "Media/1051279719.wem",
+      "CachePath": "SFX/Step_Run_Tile_008_818F3B66.wem"
+     },
+     {
+      "Id": "1052190695",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Clothing_Gear_Run_003.wav",
+      "Path": "Media/1052190695.wem",
+      "CachePath": "SFX/Clothing_Gear_Run_003_818F3B66.wem"
+     },
+     {
+      "Id": "1068488784",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Step_Run_Grass_003.wav",
+      "Path": "Media/1068488784.wem",
+      "CachePath": "SFX/Step_Run_Grass_003_818F3B66.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1276431738",
+      "Name": "Play_Footstep_Run",
+      "ObjectPath": "\\Events\\Default Work Unit\\Footsteps\\Play_Footstep_Run",
+      "GUID": "{6CB52243-E833-4A1B-9225-B14E81FCEADD}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.36285043",
+      "DurationMax": "0.6103572",
+      "MediaRefs": [
+       {
+        "Id": "17342461"
+       },
+       {
+        "Id": "52002376"
+       },
+       {
+        "Id": "133108347"
+       },
+       {
+        "Id": "502137286"
+       },
+       {
+        "Id": "551657496"
+       },
+       {
+        "Id": "619680554"
+       },
+       {
+        "Id": "732290043"
+       },
+       {
+        "Id": "760390071"
+       },
+       {
+        "Id": "807694539"
+       },
+       {
+        "Id": "1026459907"
+       },
+       {
+        "Id": "1052190695"
+       }
+      ],
+      "SwitchContainers": [
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "3865314626",
+         "Id": "2473969246",
+         "GUID": "{163A7D6E-B763-4F85-A0C1-796543A2074C}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "238067585"
+         },
+         {
+          "Id": "443331981"
+         },
+         {
+          "Id": "573085109"
+         },
+         {
+          "Id": "625987456"
+         },
+         {
+          "Id": "629494804"
+         },
+         {
+          "Id": "688236383"
+         },
+         {
+          "Id": "917922639"
+         },
+         {
+          "Id": "1031256280"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "3865314626",
+         "Id": "2058049674",
+         "GUID": "{27B26686-A419-45DA-B92A-E237F96CFD8D}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "102907376"
+         },
+         {
+          "Id": "173879676"
+         },
+         {
+          "Id": "442850953"
+         },
+         {
+          "Id": "506931058"
+         },
+         {
+          "Id": "554722802"
+         },
+         {
+          "Id": "693604867"
+         },
+         {
+          "Id": "770201169"
+         },
+         {
+          "Id": "783174836"
+         },
+         {
+          "Id": "818351054"
+         },
+         {
+          "Id": "1017054589"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "3865314626",
+         "Id": "2637588553",
+         "GUID": "{C9C2678C-1684-46ED-A2AF-1FE2CA0217BF}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "124681175"
+         },
+         {
+          "Id": "139762680"
+         },
+         {
+          "Id": "191072190"
+         },
+         {
+          "Id": "377296571"
+         },
+         {
+          "Id": "435379065"
+         },
+         {
+          "Id": "584790237"
+         },
+         {
+          "Id": "803961586"
+         },
+         {
+          "Id": "924698526"
+         },
+         {
+          "Id": "933731277"
+         },
+         {
+          "Id": "1051279719"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "3865314626",
+         "Id": "4248645337",
+         "GUID": "{3728FB9B-E698-4E73-97FE-CE335ABB0C81}",
+         "Default": "true"
+        },
+        "MediaRefs": [
+         {
+          "Id": "257340563"
+         },
+         {
+          "Id": "260993620"
+         },
+         {
+          "Id": "299848350"
+         },
+         {
+          "Id": "432781166"
+         },
+         {
+          "Id": "541712914"
+         },
+         {
+          "Id": "566249284"
+         },
+         {
+          "Id": "735108953"
+         },
+         {
+          "Id": "833610010"
+         },
+         {
+          "Id": "941105891"
+         },
+         {
+          "Id": "1068488784"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "1493153371",
+      "Name": "PlayerSpeed",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\PlayerSpeed",
+      "GUID": "{2C583147-0B9B-465F-B810-9D0B76C70B7F}"
+     }
+    ],
+    "SwitchGroups": [
+     {
+      "Id": "3865314626",
+      "Name": "Material",
+      "ObjectPath": "\\Switches\\Default Work Unit\\Material",
+      "GUID": "{E7747137-30D6-48A2-8519-532031011C66}",
+      "Switches": [
+       {
+        "Id": "2058049674",
+        "Name": "Wood",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Material\\Wood",
+        "GUID": "{27B26686-A419-45DA-B92A-E237F96CFD8D}"
+       },
+       {
+        "Id": "2473969246",
+        "Name": "Metal",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Material\\Metal",
+        "GUID": "{163A7D6E-B763-4F85-A0C1-796543A2074C}"
+       },
+       {
+        "Id": "2637588553",
+        "Name": "Tile",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Material\\Tile",
+        "GUID": "{C9C2678C-1684-46ED-A2AF-1FE2CA0217BF}"
+       },
+       {
+        "Id": "4248645337",
+        "Name": "Grass",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Material\\Grass",
+        "GUID": "{3728FB9B-E698-4E73-97FE-CE335ABB0C81}"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{12168313-2A5A-0B5D-6366-C88CDF280C4A}"
+ }
+}

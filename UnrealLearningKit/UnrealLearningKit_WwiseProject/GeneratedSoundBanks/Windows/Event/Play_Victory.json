@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "2453267296",
+    "Type": "Event",
+    "GUID": "{905F91D2-0894-424B-8929-C7BB65F9852E}",
+    "Language": "SFX",
+    "Hash": "{B208D651-C975-3C12-689A-307EB9E6FD03}",
+    "ObjectPath": "Play_Victory",
+    "ShortName": "Play_Victory",
+    "Path": "Event/Play_Victory.bnk",
+    "Media": [
+     {
+      "Id": "434620397",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Victory.wav",
+      "Path": "Media/434620397.wem",
+      "CachePath": "SFX/Victory_818F3B66.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2453267296",
+      "Name": "Play_Victory",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Victory",
+      "GUID": "{905F91D2-0894-424B-8929-C7BB65F9852E}",
+      "DurationType": "OneShot",
+      "DurationMin": "3.3815417",
+      "DurationMax": "3.3815417",
+      "MediaRefs": [
+       {
+        "Id": "434620397"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{5A9E6DA9-48CB-7810-0F7F-A1F4D1534A0B}"
+ }
+}

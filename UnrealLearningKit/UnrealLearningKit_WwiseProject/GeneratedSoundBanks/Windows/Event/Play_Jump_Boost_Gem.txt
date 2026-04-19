@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2000108670	Play_Jump_Boost_Gem			\Default Work Unit\Play_Jump_Boost_Gem	
+

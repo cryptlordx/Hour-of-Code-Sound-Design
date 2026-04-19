@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="3615788468" Type="Event" GUID="{BC5D1CB2-EAD2-4851-8B25-CD41D952B77F}" Language="SFX" Hash="{C5979504-2948-853A-DDFC-7068FB5B2C03}">
+			<ObjectPath>Play_Coin_Pickup</ObjectPath>
+			<ShortName>Play_Coin_Pickup</ShortName>
+			<Path>Event/Play_Coin_Pickup.bnk</Path>
+			<Media>
+				<File Id="46135074" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Coin_Ring_003.wav</ShortName>
+					<Path>Media/46135074.wem</Path>
+					<CachePath>SFX/Coin_Ring_003_818F3B66.wem</CachePath>
+				</File>
+				<File Id="198937613" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Coin_Ring_002.wav</ShortName>
+					<Path>Media/198937613.wem</Path>
+					<CachePath>SFX/Coin_Ring_002_818F3B66.wem</CachePath>
+				</File>
+				<File Id="286996025" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Coin_Ring_004.wav</ShortName>
+					<Path>Media/286996025.wem</Path>
+					<CachePath>SFX/Coin_Ring_004_818F3B66.wem</CachePath>
+				</File>
+				<File Id="473992599" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Coin_Synth_003.wav</ShortName>
+					<Path>Media/473992599.wem</Path>
+					<CachePath>SFX/Coin_Synth_003_818F3B66.wem</CachePath>
+				</File>
+				<File Id="507751720" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Coin_Ring_005.wav</ShortName>
+					<Path>Media/507751720.wem</Path>
+					<CachePath>SFX/Coin_Ring_005_818F3B66.wem</CachePath>
+				</File>
+				<File Id="621968080" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Coin_Synth_005.wav</ShortName>
+					<Path>Media/621968080.wem</Path>
+					<CachePath>SFX/Coin_Synth_005_818F3B66.wem</CachePath>
+				</File>
+				<File Id="816104538" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Coin_Synth_002.wav</ShortName>
+					<Path>Media/816104538.wem</Path>
+					<CachePath>SFX/Coin_Synth_002_818F3B66.wem</CachePath>
+				</File>
+				<File Id="887324740" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Coin_Synth_004.wav</ShortName>
+					<Path>Media/887324740.wem</Path>
+					<CachePath>SFX/Coin_Synth_004_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1066594325" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Coin_Ring_001.wav</ShortName>
+					<Path>Media/1066594325.wem</Path>
+					<CachePath>SFX/Coin_Ring_001_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="3615788468" Name="Play_Coin_Pickup" ObjectPath="\Events\Default Work Unit\Play_Coin_Pickup" GUID="{BC5D1CB2-EAD2-4851-8B25-CD41D952B77F}" MaxAttenuation="1000" DurationType="OneShot" DurationMin="0.74666667" DurationMax="0.8524375">
+					<MediaRefs>
+						<MediaRef Id="46135074"/>
+						<MediaRef Id="198937613"/>
+						<MediaRef Id="286996025"/>
+						<MediaRef Id="473992599"/>
+						<MediaRef Id="507751720"/>
+						<MediaRef Id="621968080"/>
+						<MediaRef Id="816104538"/>
+						<MediaRef Id="887324740"/>
+						<MediaRef Id="1066594325"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{60A0CDAB-D989-6673-B9EC-E1C8C487ADAE}</FileHash>
+</SoundBanksInfo>

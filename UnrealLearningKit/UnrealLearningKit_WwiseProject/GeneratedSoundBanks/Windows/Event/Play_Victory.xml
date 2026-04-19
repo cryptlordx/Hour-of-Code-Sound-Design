@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="2453267296" Type="Event" GUID="{905F91D2-0894-424B-8929-C7BB65F9852E}" Language="SFX" Hash="{B208D651-C975-3C12-689A-307EB9E6FD03}">
+			<ObjectPath>Play_Victory</ObjectPath>
+			<ShortName>Play_Victory</ShortName>
+			<Path>Event/Play_Victory.bnk</Path>
+			<Media>
+				<File Id="434620397" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>Victory.wav</ShortName>
+					<Path>Media/434620397.wem</Path>
+					<CachePath>SFX/Victory_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="2453267296" Name="Play_Victory" ObjectPath="\Events\Default Work Unit\Play_Victory" GUID="{905F91D2-0894-424B-8929-C7BB65F9852E}" DurationType="OneShot" DurationMin="3.3815417" DurationMax="3.3815417">
+					<MediaRefs>
+						<MediaRef Id="434620397"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{C62C3577-EE71-7E42-5740-2E51AC216412}</FileHash>
+</SoundBanksInfo>

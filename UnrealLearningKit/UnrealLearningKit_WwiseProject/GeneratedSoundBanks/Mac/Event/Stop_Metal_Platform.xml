@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="415866941" Type="Event" GUID="{08BC87B2-CE49-4FC5-A306-B32BF8F7A5CF}" Language="SFX" Hash="{7F624BA7-9892-FE12-CBDE-23C38CA79A84}">
+			<ObjectPath>Stop_Metal_Platform</ObjectPath>
+			<ShortName>Stop_Metal_Platform</ShortName>
+			<Path>Event/Stop_Metal_Platform.bnk</Path>
+			<Events>
+				<Event Id="415866941" Name="Stop_Metal_Platform" ObjectPath="\Events\Default Work Unit\Floating Islands\Stop_Metal_Platform" GUID="{08BC87B2-CE49-4FC5-A306-B32BF8F7A5CF}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{2BB01341-52CA-1B99-E8A2-AFBF8CB49722}</FileHash>
+</SoundBanksInfo>

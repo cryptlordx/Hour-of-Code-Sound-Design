@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "2000108670",
+    "Type": "Event",
+    "GUID": "{977A4D6E-B33A-4074-B771-658970B6D905}",
+    "Language": "SFX",
+    "Hash": "{D5BCBDF2-A642-9FD3-FB72-2D2DBBFCBC13}",
+    "ObjectPath": "Play_Jump_Boost_Gem",
+    "ShortName": "Play_Jump_Boost_Gem",
+    "Path": "Event/Play_Jump_Boost_Gem.bnk",
+    "Media": [
+     {
+      "Id": "1052020029",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Jump_Boost_Pickup.wav",
+      "Path": "Media/1052020029.wem",
+      "CachePath": "SFX/Jump_Boost_Pickup_818F3B66.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2000108670",
+      "Name": "Play_Jump_Boost_Gem",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Jump_Boost_Gem",
+      "GUID": "{977A4D6E-B33A-4074-B771-658970B6D905}",
+      "MaxAttenuation": "1000",
+      "DurationType": "OneShot",
+      "DurationMin": "1.7960833",
+      "DurationMax": "1.7960833",
+      "MediaRefs": [
+       {
+        "Id": "1052020029"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{B516F499-9143-741E-BBD2-F8D0F5C7E613}"
+ }
+}

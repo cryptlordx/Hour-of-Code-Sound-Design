@@ -1,0 +1,73 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "2181508724",
+    "Type": "Event",
+    "GUID": "{1379D797-475D-4FD1-B9CA-C2F39AC65768}",
+    "Language": "SFX",
+    "Hash": "{E8C4AE7E-1F21-188F-33D5-3128ABD334B3}",
+    "ObjectPath": "Play_Sphere_Collision",
+    "ShortName": "Play_Sphere_Collision",
+    "Path": "Event/Play_Sphere_Collision.bnk",
+    "Media": [
+     {
+      "Id": "140279805",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Ball_Hit_002.wav",
+      "Path": "Media/140279805.wem",
+      "CachePath": "SFX/Ball_Hit_002_818F3B66.wem"
+     },
+     {
+      "Id": "377241007",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Ball_Hit_003.wav",
+      "Path": "Media/377241007.wem",
+      "CachePath": "SFX/Ball_Hit_003_818F3B66.wem"
+     },
+     {
+      "Id": "731828973",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Ball_Hit_001.wav",
+      "Path": "Media/731828973.wem",
+      "CachePath": "SFX/Ball_Hit_001_818F3B66.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2181508724",
+      "Name": "Play_Sphere_Collision",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Sphere_Collision",
+      "GUID": "{1379D797-475D-4FD1-B9CA-C2F39AC65768}",
+      "MaxAttenuation": "2000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.31527358",
+      "DurationMax": "0.6634583",
+      "MediaRefs": [
+       {
+        "Id": "140279805"
+       },
+       {
+        "Id": "377241007"
+       },
+       {
+        "Id": "731828973"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{519C55AA-C1D5-94AE-E0D7-2BC6CBB474E3}"
+ }
+}

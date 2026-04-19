@@ -1,0 +1,60 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "2962822744",
+    "Type": "Event",
+    "GUID": "{BFBF61E3-DCC9-4AF8-8037-935ABF461A5E}",
+    "Language": "SFX",
+    "Hash": "{08E8EABE-A65F-2946-77E6-A647744A6CBD}",
+    "ObjectPath": "Play_Checkpoint",
+    "ShortName": "Play_Checkpoint",
+    "Path": "Event/Play_Checkpoint.bnk",
+    "Media": [
+     {
+      "Id": "272977787",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Checkpoint_2D.wav",
+      "Path": "Media/272977787.wem",
+      "CachePath": "SFX/Checkpoint_2D_818F3B66.wem"
+     },
+     {
+      "Id": "980870886",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Checkpoint_3D_Click.wav",
+      "Path": "Media/980870886.wem",
+      "CachePath": "SFX/Checkpoint_3D_Click_818F3B66.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2962822744",
+      "Name": "Play_Checkpoint",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Checkpoint",
+      "GUID": "{BFBF61E3-DCC9-4AF8-8037-935ABF461A5E}",
+      "DurationType": "OneShot",
+      "DurationMin": "2.8",
+      "DurationMax": "2.8",
+      "MediaRefs": [
+       {
+        "Id": "272977787"
+       },
+       {
+        "Id": "980870886"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{01C08924-F08C-CE01-1D8E-87C594E70126}"
+ }
+}

@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1155380491	Play_Exterior_Ambience			\Default Work Unit\Play_Exterior_Ambience	
+

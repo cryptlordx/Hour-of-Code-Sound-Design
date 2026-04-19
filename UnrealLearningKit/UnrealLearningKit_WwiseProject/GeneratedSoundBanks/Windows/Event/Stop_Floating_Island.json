@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "2071010958",
+    "Type": "Event",
+    "GUID": "{3FA03F19-0526-45D2-B27B-98E03CD36A90}",
+    "Language": "SFX",
+    "Hash": "{6E32746A-8108-804A-D49D-B5557E9057D8}",
+    "ObjectPath": "Stop_Floating_Island",
+    "ShortName": "Stop_Floating_Island",
+    "Path": "Event/Stop_Floating_Island.bnk",
+    "Events": [
+     {
+      "Id": "2071010958",
+      "Name": "Stop_Floating_Island",
+      "ObjectPath": "\\Events\\Default Work Unit\\Floating Islands\\Stop_Floating_Island",
+      "GUID": "{3FA03F19-0526-45D2-B27B-98E03CD36A90}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{328F290A-AB38-F2BA-C1CA-89147B9DEE2E}"
+ }
+}
